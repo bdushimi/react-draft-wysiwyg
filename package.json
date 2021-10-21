@@ -1,0 +1,26 @@
+{
+  "name": "trying-react-draft-wysiwyg",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "draft-js-export-html": "1.2.0",
+    "draftjs-to-html": "0.8.3",
+    "htmr": "0.6.3",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-draft-wysiwyg": "1.12.11",
+    "react-html-parser": "2.0.2",
+    "react-rte": "0.16.1",
+    "react-scripts": "1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
